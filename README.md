@@ -1,6 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
+
 ### Olá Pessoal 🫡
 
 ##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimmoraes&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Moraes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimmoraes&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />
+</div>
 
 <img align="right" height="250" width="350" style="border-radius:50px;" src="src/assets/to_readme/icegif-4383.gif" width="300"/> 
 
@@ -30,3 +37,5 @@ Me chamo Yasmim Moraes e estou cursando o primeiro semestre do Bacharelado em Si
 - 💬 Ask me about video games
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: I love açaí
+  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
