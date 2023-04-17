@@ -31,4 +31,4 @@ Me chamo Yasmim Moraes e estou cursando o primeiro semestre do Bacharelado em Si
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: I love açaí
 
-![Snake animation](https://github.com/yasmimmoraes/yasmimmoraes/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/yasmimmoraes/yasmimmoraes/blob/output/github-contribution-grid-snake.svg)
