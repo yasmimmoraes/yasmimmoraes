@@ -2,7 +2,7 @@
 
 ##
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src="src/assets/to_readme/icegif-4383.gif" width="300"/> 
 
 Me chamo Yasmim Moraes e estou cursando o primeiro semestre do Bacharelado em Sistemas de Informação no IFC, e atualmente estou mantendo o foco nos estudos, orientando-o principalmente para linguagens como Python e C#
 
