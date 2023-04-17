@@ -33,5 +33,7 @@ Me chamo Yasmim Moraes e estou cursando o primeiro semestre do Bacharelado em Si
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
+ <div> 
 <!-- platane/snk works, it just puts it on a new branch -->
-![snake gif](https://github.com/yasmimmoraes/yasmimmoraes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yasmimmoraes/yasmimmoraes/blob/output/github-contribution-grid-snake.svg)
+</div>
