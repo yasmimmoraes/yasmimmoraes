@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Me chamo Yasmim Moraes e estou cursando o primeiro semestre do Bacharelado em Sistemas de Informação no IFC, e atualmente estou mantendo o foco nos estudos, orientando-o principalmente para linguagens como Python e C#
+Me chamo Yasmim Moraes e estou cursando o primeiro semestre do tecnólogo em análise e desenvolvimento de sistemas na UDESC Joinville, e atualmente estou mantendo o foco nos estudos, orientando-o principalmente para linguagens como Python e C#
 
 ## 📋 Skills
 
