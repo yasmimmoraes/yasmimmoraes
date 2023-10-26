@@ -37,6 +37,6 @@ Me chamo Yasmim Moraes e estou cursando o primeiro semestre do tecnólogo em an�
 - 🤔 I’m looking for help with APIs
 - 💬 Ask me about video games
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: I love açaí
+- 🎧 Fun fact: I love dubstep
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
