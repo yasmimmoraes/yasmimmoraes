@@ -30,13 +30,13 @@ Me chamo Yasmim Moraes e estou cursando o segundo semestre do tecnólogo em aná
 
 ##
 
+<img align="right" height="300" width="400" style="border-radius:50px;" src="src/assets/to_readme/icegif-4383.gif" width="300"/> 
+
 - 🔭 I’m currently working on my studies
 - 🌱 I’m currently learning Python and C
 - 🤔 I’m looking for help with APIs
 - 💬 Ask me about video games
 - 😄 Pronouns: Ela/Dela
 - 🎧 Fun fact: I love doom metal
-
-  <img align="left" height="300" width="400" style="border-radius:50px;" src="src/assets/to_readme/icegif-4383.gif" width="300"/> 
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
