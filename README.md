@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimmoraes&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />
 </div>
 
-<img align="right" height="250" width="350" style="border-radius:50px;" src="src/assets/to_readme/icegif-4383.gif" width="300"/> 
-
 ## 👩‍💻 Sobre Mim
 
 Me chamo Yasmim Moraes e estou cursando o segundo semestre do tecnólogo em análise e desenvolvimento de sistemas na UDESC Joinville, e atualmente estou mantendo o foco nos estudos, orientando-o principalmente para linguagens como Python e C
@@ -38,5 +36,7 @@ Me chamo Yasmim Moraes e estou cursando o segundo semestre do tecnólogo em aná
 - 💬 Ask me about video games
 - 😄 Pronouns: Ela/Dela
 - 🎧 Fun fact: I love doom metal
+
+  <img align="right" height="250" width="350" style="border-radius:50px;" src="src/assets/to_readme/icegif-4383.gif" width="300"/> 
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
