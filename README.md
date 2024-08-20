@@ -10,7 +10,8 @@
 
 ## 👩‍💻 Sobre Mim
 
-Me chamo Yasmim Moraes e estou cursando o segundo semestre do tecnólogo em análise e desenvolvimento de sistemas na UDESC Joinville, e atualmente estou mantendo o foco nos estudos, orientando-o principalmente para linguagens como Python e C
+Me chamo Yasmim Moraes e estou cursando o terceiro semestre do tecnólogo em análise e desenvolvimento de sistemas, atualmente estou mantendo o foco nos estudos, orientando-o principalmente para React e type script
+além disso atualmente me econtro em um estágio de front-end
 
 ## 📋 Skills
 
