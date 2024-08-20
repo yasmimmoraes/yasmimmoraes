@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Me chamo Yasmim Moraes e estou cursando o terceiro semestre do tecnólogo em análise e desenvolvimento de sistemas, atualmente estou mantendo o foco nos estudos, orientando-o principalmente para React e type script
+Me chamo Yasmim Moraes e estou cursando o terceiro semestre do tecnólogo em análise e desenvolvimento de sistemas, estou mantendo o foco nos estudos, orientando-o principalmente para React e type script
 além disso atualmente me econtro em um estágio de front-end
 
 ## 📋 Skills
